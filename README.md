@@ -153,3 +153,28 @@ We invite you to contribute by sharing your interview experiences and questions 
 18. What is the purpose of the CASE statement in SQL?
 19. Explain the difference between a view and a table.
 20. How do you perform a backup and restore in SQL Server?
+
+### OOPs Interview Questions : 
+
+1. What is the difference between a class and an object?
+2. What are the four main pillars of Object-Oriented Programming (OOP) – Encapsulation, Inheritance, Polymorphism, and Abstraction?
+3. Can you explain the concept of Inheritance and its various types (Single, Multiple, Multilevel, Hierarchical, Hybrid)?
+4. What is Polymorphism? How does method overloading differ from method overriding?
+5. What is Encapsulation, and how does it contribute to data hiding?
+6. What is Abstraction, and how do abstract classes and interfaces aid in achieving it?
+7. What are the key differences between an abstract class and an interface?
+8. Can you explain the concept of constructors and destructors in OOP?
+9. What are access modifiers (public, private, protected) and how do they control access to class members?
+10. What is the difference between association, aggregation, and composition?
+11. What are manipulators in OOP?
+12. How does the "this" keyword work in Object-Oriented Programming?
+13. What is the role of the static keyword in OOP?
+14. What are the different types of arguments in OOP?
+15. How does exception handling work in OOP? Can you explain with examples?
+16. What is the difference between a shallow copy and a deep copy?
+17. What is multiple inheritance, and how is it managed in languages that do not directly support it?
+18. Can you explain the concept of virtual functions and pure virtual functions?
+19. What is dynamic binding (or late binding) in OOP?
+20. What is operator overloading, and how is it implemented in OOP?
+
+
